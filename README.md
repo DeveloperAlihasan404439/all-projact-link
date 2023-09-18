@@ -1,4 +1,4 @@
-> # __ README ফাইল তৈরির ওয়েবসাইট
+> # README ফাইল তৈরির ওয়েবসাইট
 1. [markdown](https://www.markdownguide.org/cheat-sheet/)
 ---
 
