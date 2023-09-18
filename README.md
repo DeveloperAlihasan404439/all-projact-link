@@ -1,11 +1,5 @@
-> ### README ফাইল তৈরির ওয়েবসাইট
-1. [markdown](https://www.markdownguide.org/cheat-sheet/)
-> ### Awesome React Components & Libraries
-2. [Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components)
-> ### Recharts
-3. [Recharts link](https://recharts.org/en-US/guide)
-> ### Axios
-4. [Axios link](https://axios-http.com/docs/intro)
+> ### README ফাইল তৈরির ওয়েবসাইট, Awesome React Components & Libraries, Recharts, Axios
+1. [markdown](https://www.markdownguide.org/cheat-sheet/)[Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components)[Recharts link](https://recharts.org/en-US/guide) [Axios link](https://axios-http.com/docs/intro)
 ---
 
 > HTML Tailwind Css React Vite
